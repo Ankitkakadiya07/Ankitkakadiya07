@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit kakadiya</h1>
-<h3 align="center">🌱 I’m currently learning At LJK University B.Tech student in Computer Engineering.</h3>
+<h3 align="center">🌱 I’m currently learning At LJK University B.Tech in Computer Engineering.</h3>
 
 
 - 📫 How to reach me **ankitkakadiya4585@gmail.com**
