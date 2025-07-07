@@ -1,4 +1,7 @@
-![logo](https://github.com/Ankitkakadiya07/Ankitkakadiya07/blob/main/WhatsApp%20Image%202025-07-07%20at%2018.20.48_f79a58e3.jpg)
+  
+<p align="center">
+  <img src="https://github.com/Ankitkakadiya07/Ankitkakadiya07/raw/main/WhatsApp%20Image%202025-07-07%20at%2018.20.48_f79a58e3.jpg" alt="Ankit Kakadiya Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Ankit kakadiya</h1>
 <h3 align="center">🌱 I’m currently Studying in *Computer Engineering*,</h3>
 
